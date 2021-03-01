@@ -1,14 +1,14 @@
 {   
-    "name": "sharedcontent",
-    "title": "Shared Content for Genefunk Worlds",
-    "description": "Allows sharing of custom content between Genefunk worlds",
+    "name": "releasemodule-test",
+    "title": "releasemodule-test",
+    "description": "test of releasing modules from github",
     "author": "Dethston",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "compatibleCoreVersion": "0.7.9",
     "scripts": [
         "init.js"
     ],
     "url": "https://github.com/Dethston/releasetest.git",
-    "manifest": "https://github.com/Dethston/releasetest/releases/download/0.0.3/module.json",
-    "download": "https://github.com/Dethston/releasetest/releases/download/0.0.3/releasemodule-test.zip" 
+    "manifest": "https://github.com/Dethston/releasetest/releases/download/0.0.4/module.json",
+    "download": "https://github.com/Dethston/releasetest/releases/download/0.0.4/releasemodule-test.zip" 
  }    
