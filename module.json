@@ -1,0 +1,14 @@
+{   
+    "name": "sharedcontent",
+    "title": "Shared Content for Genefunk Worlds",
+    "description": "Allows sharing of custom content between Genefunk worlds",
+    "author": "Dethston",
+    "version": "0.0.1",
+    "compatibleCoreVersion": "0.7.9",
+    "scripts": [
+        "init.js"
+    ],
+    "url": "https://github.com/Dethston/releasetest.git",
+    "manifest": "",
+    "download": "" 
+ }    
