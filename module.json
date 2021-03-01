@@ -3,12 +3,12 @@
     "title": "Shared Content for Genefunk Worlds",
     "description": "Allows sharing of custom content between Genefunk worlds",
     "author": "Dethston",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "compatibleCoreVersion": "0.7.9",
     "scripts": [
         "init.js"
     ],
     "url": "https://github.com/Dethston/releasetest.git",
-    "manifest": "",
-    "download": "" 
+    "manifest": "https://github.com/Dethston/releasetest/releases/download/0.0.3/module.json",
+    "download": "https://github.com/Dethston/releasetest/releases/download/0.0.3/releasemodule-test.zip" 
  }    
