@@ -3,12 +3,12 @@
     "title": "releasemodule-test",
     "description": "test of releasing modules from github",
     "author": "Dethston",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "compatibleCoreVersion": "0.7.9",
     "scripts": [
         "init.js"
     ],
     "url": "https://github.com/Dethston/releasetest.git",
-    "manifest": "https://github.com/Dethston/releasetest/releases/download/0.0.5/module.json",
-    "download": "https://github.com/Dethston/releasetest/releases/download/0.0.5/releasemodule-test.zip" 
+    "manifest": "https://github.com/Dethston/releasetest/releases/download/0.0.6/module.json",
+    "download": "https://github.com/Dethston/releasetest/releases/download/0.0.6/releasemodule-test.zip" 
  }    
