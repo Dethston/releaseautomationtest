@@ -8,7 +8,7 @@
     "scripts": [
         "init.js"
     ],
-    "url": "https://github.com/Dethston/releasetest.git",
-    "manifest": "https://github.com/Dethston/releasetest/releases/download/0.0.1/module.json",
-    "download": "https://github.com/Dethston/releasetest/releases/download/0.0.1/releasemodule-test.zip" 
+    "url": "https://github.com/Dethston/releaseautomationtest",
+    "manifest": "https://github.com/Dethston/releaseautomationtest/releases/download/0.0.1/module.json",
+    "download": "https://github.com/Dethston/releaseautomationtest/releases/download/0.0.1/releasemodule-test.zip" 
  }    
